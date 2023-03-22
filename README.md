@@ -1,7 +1,7 @@
 # Trabajo-Econometría
 Trabajo realizado en la asignatura de Econometría Aplicada durante la formación profesional.
 
-El trabajo consistió en el planteamiento de un modelo econometrico (de preferencia un modelo matematico economico) el cual debía ser modelado en RStudio. Dentro del proceso de modelado se realizó recoppilación de datos, el analisis de la significancia individual y global, el analisis de la normalidad y los residuos, aplicaciones de estadisticos (test) para corroborar el correcto analisis.
+El trabajo consistió en el planteamiento de un modelo econométrico (de preferencia un modelo matematico económico) el cual debía ser modelado en RStudio. Dentro del proceso de modelado se realizó recopilación de datos, el analisis de la significancia individual y global, el analisis de la normalidad y los residuos, aplicaciones de estadisticos (test) para corroborar el correcto analisis.
 
 Estos son algunos de los gráficos realizados y utilizados para explicar y analizar el modelo.
 
